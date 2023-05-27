@@ -8,8 +8,6 @@ function App() {
   return (
     <div>
       <Header />
-      <Image />
-      <Gallery />
       <Main />
       <Footer />
     </div>
